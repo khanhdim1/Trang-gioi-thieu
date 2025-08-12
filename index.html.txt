@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Giới thiệu Trùng Khánh</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container" role="main">
+    <h1>Trùng Khánh</h1>
+    <p class="description">Mọi người có thể tìm thấy tôi ở các nền tảng sau đây.</p>
+
+    <div class="contact" role="region" aria-label="Thông tin liên hệ">
+      <h2>Thông tin liên hệ</h2>
+      <ul>
+        <li><span>Tiktok:</span> <a href="https://www.tiktok.com/@trungkhanh" target="_blank" rel="noopener">Trùng Khánh</a></li>
+        <li><span>Facebook:</span> <a href="https://www.facebook.com/trungkhanh.lofichill" target="_blank" rel="noopener">Trùng Khánh (lofi chill)</a></li>
+        <li><span>SĐT:</span> <a href="tel:+84777705861">0777 705 861</a></li>
+        <li><span>Email:</span> <a href="mailto:khanhdim888@gmail.com">khanhdim888@gmail.com</a></li>
+        <li><span>Zalo:</span> 0777 704 861</li>
+      </ul>
+    </div>
+
+    <div class="image-wrapper" aria-label="Hình ảnh mát mẻ đẹp tươi sáng">
+      <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" alt="Phong cảnh thiên nhiên tươi sáng, xanh mát" />
+    </div>
+
+    <footer>
+      &copy; 2025 Trùng Khánh. All rights reserved.
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
